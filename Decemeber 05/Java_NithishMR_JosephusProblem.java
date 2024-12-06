@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-class Java_NithishMR_TargetPairFinder {
+class Java_NithishMR_JosephusProblem {
     public static int survivingPosition(int n, int k){
         ArrayList<Integer> members = new ArrayList<Integer>();
         for(int i = 1; i <= n; i++ ){
