@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-class NithishMR {
+class Java_NithishMR_TargetPairFinder {
     public static int survivingPosition(int n, int k){
         ArrayList<Integer> members = new ArrayList<Integer>();
         for(int i = 1; i <= n; i++ ){
